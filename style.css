@@ -5,6 +5,7 @@ h1 {
   table {
     border-collapse: collapse;
     margin-bottom: 20px;
+    align-items: center;
   }
   
   table, th, td {
